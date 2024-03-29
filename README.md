@@ -1,1 +1,2 @@
-CS 501 Assignment 2 - Simple GUI Calculator.
+## cs 501 assignment 2 - GUI calculator 
+calculator app.
